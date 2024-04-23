@@ -13,8 +13,8 @@
 	2) Locate to your user scripts folder (a hidden folder):
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html	
 	   
-	3) Add all unzipped files (*.js, and script-icons folder) directly to the folder above.
-	4) Add one or both of the following functions to any toolbar:
+	3) There is a folder named "src" inside the zip file. Copy all its contents directly to the folder above.
+	4) In Harmony, add one or both of the following functions to any toolbar:
 
 	   - ANM_flip_Drawing_From_Center_H()     ---for Horizontal flipping
 	   - ANM_flip_Drawing_From_Center_V()     ---for Vertical flipping
